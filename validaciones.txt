@@ -1,0 +1,9 @@
+MAILS VALIDADOS
+a@a.com VALIDO!
+b.com (NO) VALIDO!
+c@.com (NO) VALIDO!
+ddcom (NO) VALIDO!
+e@e.com.ar VALIDO!
+´ç@.com.ar (NO) VALIDO!
+asd@123.123 (NO) VALIDO!
+qwe@ca.123. (NO) VALIDO!
